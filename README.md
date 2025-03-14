@@ -119,7 +119,7 @@
 
 </details>
 
-[QR 코드를 찍어보면... (얘도 약간 기괴)](https://qr.me-qr.com/5wern7qh)
+[QR 코드를 찍어보면... (얘도 약간 기괴)](https://qr.me-qr.com/data/image-pack/5wern7qh)
 
 ## -완-
 
